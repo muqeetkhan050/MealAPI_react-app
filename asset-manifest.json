@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/muqeetkhan050/MealAPI_react-app.git/static/css/main.f855e6bc.css",
+    "main.js": "/muqeetkhan050/MealAPI_react-app.git/static/js/main.12f431b7.js",
+    "static/js/453.7bdd6e11.chunk.js": "/muqeetkhan050/MealAPI_react-app.git/static/js/453.7bdd6e11.chunk.js",
+    "static/media/logo.svg": "/muqeetkhan050/MealAPI_react-app.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/muqeetkhan050/MealAPI_react-app.git/index.html",
+    "main.f855e6bc.css.map": "/muqeetkhan050/MealAPI_react-app.git/static/css/main.f855e6bc.css.map",
+    "main.12f431b7.js.map": "/muqeetkhan050/MealAPI_react-app.git/static/js/main.12f431b7.js.map",
+    "453.7bdd6e11.chunk.js.map": "/muqeetkhan050/MealAPI_react-app.git/static/js/453.7bdd6e11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.12f431b7.js"
+  ]
+}
